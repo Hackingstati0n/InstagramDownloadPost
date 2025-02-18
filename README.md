@@ -18,7 +18,7 @@ Para rodar este projeto, é necessário ter os seguintes requisitos instalados:
 - **Python 3.x**: Linguagem de programação utilizada.
 - **Selenium**: Para automatizar o navegador.
 - **Requests**: Para baixar as imagens.
-- **WebDriver do Chrome (ou Brave)**: Necessário para o Selenium controlar o navegador.
+- **WebDriver do Chrome (ou Brave)**: Necessário para o Selenium controlar o navegador. Entretanto caso seja necessario, subestitua pelo seu Browser padrao.
 - **Brave Browser (ou Chrome)**: Navegador utilizado para acessar o Instagram.
 
 Você pode instalar os pacotes Python necessários usando o seguinte comando:
